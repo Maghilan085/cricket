@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+     <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
 <h1>Welcome to the Indian Cricket World</h1>
 
 <h2>Ravindra Jadeja</h2>
-<img src="img/download.jpeg">
+<img src="images/download.jpeg">
  <p>1.Jadeja is a professional Indian cricketer born on December 6, 1988, in Gujarat.<br>
 2. He is a left-handed batsman and a left-arm orthodox spinner.<br>
 3. Jadeja is known for being one of the best all-rounders in modern cricket.<br>
@@ -22,7 +22,7 @@
 10. Off the field, he owns horses and loves farming at his home in Jamnagar.</p>
 
 <h2>MS Dhoni</h2>
-<img src="img/dhoni msd.jpeg">
+<img src="images/dhoni msd.jpeg">
 <p><h4>1. Mahendra Singh Dhoni, also known as MSD or "Captain Cool", was born on July 7, 1981, in Ranchi, Jharkhand.<br>
 2. He is a right-handed batsman and one of the most successful wicket-keepers in cricket history.<br>
 3. Dhoni is famous for his calm mindset and incredible leadership on the field.<br>
@@ -35,7 +35,7 @@
 10. He is respected not only as a player, but also as a humble, disciplined, and inspirational leader.</h4></p>
 
 <h2>Jonty Rhodes</h2>
-<img src="img/a.png">
+<img src="images/a.png">
 <p><h4>1. Jonty Rhodes is a former South African cricketer.<br>
 2. He is famous all over the world for his brilliant fielding skills.<br>
 3. Jonty changed how people think about fielding in cricket.<br>
@@ -47,7 +47,7 @@
 10. Many young cricketers look up to him as a legend of the game.</h4></p>
 
 <h2>Virat Kohli</h2>
-<img src="img/images.jpg">
+<img src="images/images.jpg">
 <p><h4>1. Virat Kohli was born in Delhi, India, on November 5, 1988, to Prem Kohli and Saroj Kohli.<br>
 2. He is a right-handed batsman and occasionally bowls right-arm medium pace.<br>
 3. Captained the India Under-19 team to victory in the 2008 ICC Under-19 World Cup, gaining national attention.<br>
@@ -69,7 +69,7 @@
 
 
 <h2>Glenn Philips</h2>
-<img src="img/images (1).jpg">
+<img src="images/images (1).jpg">
 <p><h4>1. Phillips is a New Zealand cricketer known for his explosive batting, right-arm off-break bowling, and exceptional fielding.<br>
 2. He is considered an all-rounder. He's known for his athleticism and outstanding catches in the field.<br>
 3. Born in South Africa, Phillips moved to New Zealand at the age of five. He is currently 28 years old.<br>
@@ -81,7 +81,7 @@
 9. In the IPL, he was first picked by Rajasthan Royals in 2021. In 2023, playing for Sunrisers Hyderabad, he hit a match-winning 25 off 7 balls against Rajasthan Royals. For IPL 2025, he was purchased by Gujarat Titans for INR 2 crore, but was later ruled out due to injury and replaced by Dasun Shanaka.</h4></p>
 
 <h2>Mitchell Starc</h2>
-<img src="img/ap.avif">
+<img src="images/ap.avif">
 <p><h4>1. Mitchell Starc is an Australian left-arm fast bowler known for his speed and ability to swing the ball.<br>
 2. He recently played his 100th Test match where he achieved the incredible feat of taking his 400th Test wicket.<br>
 3. In that same 100th Test, he recorded the fastest five-wicket haul in Test history, taking 5 wickets in just 15 balls.<br>
@@ -94,7 +94,7 @@
 10. In the 2024 IPL auction, he became the most expensive player in IPL history when the Kolkata Knight Riders purchased him for INR 24.75 crore, but he was bought by Delhi Capitals for INR 11.75 crore in the 2025 IPL auction.</h4></p>
 
 <h2>Jasprit Bumrah</h2>
-<img src="img/86qfi0p8_jasprit-bumrah-bcci_625x300_28_October_24.jpg">
+<img src="images/86qfi0p8_jasprit-bumrah-bcci_625x300_28_October_24.jpg">
 <p><h4>1. Jasprit Bumrah is an Indian fast bowler known for his unique and deceptive bowling action.<br>
 2. He bowls consistently around the 142 km/h mark, with a fastest delivery recorded at 153 km/h.<br>
 3. Bumrah is considered one of the best death-overs bowlers due to his accurate yorkers and variations.<br>
@@ -114,4 +114,3 @@
 </html>
 
 
-   
