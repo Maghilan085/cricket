@@ -1,9 +1,6 @@
-    <!DOCTYPE html>
-<html lang="en">
+  <!DOCKTYPE>
+<title>Indian Cricket World</title>
 <head>
-    <meta charset="UTF-8">
-    <title>Indian Cricket World</title>
-</head>
 <body>
 
 <h1>Welcome to the Indian Cricket World</h1>
@@ -109,7 +106,7 @@
 <hr>
 <p><h3>his webpage is dedicated to the cricket lover: V.P Kanishk</p>
 <p>Webpage by: Maghilan </h3></p>
-
+</head>
 </body>
 </html>
 
